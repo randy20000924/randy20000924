@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Randy Chang!</h1>
-<h3 align="center">A passionate software developer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randy20000924&label=Profile%20views&color=0e75b6&style=flat" alt="randy20000924" /> </p>
-
-- 🌱 I’m currently learning **Cloud application**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
